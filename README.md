@@ -48,7 +48,9 @@
 
 <div align="center">
   
-[![eJPTv2](https://img.shields.io/badge/eLearnSecurity-eJPTv2-FF6B35?style=for-the-badge&logo=hackaday&logoColor=white)](https://www.credential.net/)
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145057791">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/145057791" alt="eJPTv2 Certification" width="150"/>
+</a>
 
 **eLearnSecurity Junior Penetration Tester v2**
 
